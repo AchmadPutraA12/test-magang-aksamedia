@@ -1,3 +1,3 @@
-* Tugas 1 <a href="http://tugas1.achmadputraa.my.id" target="_blank">Link</a>
+* Tugas 1 
 * Tugas 2
 * Tugas 3
